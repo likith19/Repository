@@ -1,0 +1,3 @@
+@PATH annotation on the class to identify as a JAX-RS Resource.
+@GET annotation on the method to identify the method for a resource.
+@PRODUCES(MediaType.TEXT_PLAIN) on the method to provide the content type of the response.
